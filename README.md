@@ -30,7 +30,9 @@ npm start
 ```
 
 ## Visuals
-![Demo](./assets/walkthrough.mp4)
+![Demo](./Assets/13-orm-homework-demo-01.gif)
+![Demo](./Assets/13-orm-homework-demo-02.gif)
+![Demo](./Assets/13-orm-homework-demo-03.gif)
 
 ## License
 This project is licensed under the MIT license. Please visit [the license file](https://github.com/lbburnsy/note-taker/blob/main/LICENSE) for more info.
