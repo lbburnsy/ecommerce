@@ -1,6 +1,8 @@
 # E-Commerce Back End
 A SQL centered back end to streamline your e-commerce business.
 
+[Click here for a video walk through.](https://drive.google.com/file/d/1R-PGIyXqG71YO5qYCHCVllTOtL5o2Mep/view)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -30,6 +32,7 @@ npm start
 ```
 
 ## Visuals
+
 ![Demo](./Assets/13-orm-homework-demo-01.gif)
 ![Demo](./Assets/13-orm-homework-demo-02.gif)
 ![Demo](./Assets/13-orm-homework-demo-03.gif)
